@@ -1,0 +1,22 @@
+MANUAL DE CADASTRAMENTO DE LOCALIZAÇÃO
+
+1) Mapa que mostra as Localizações da Praça Ricardo Leônidas Ribas (Praça do Brique). Apartir dos números - de 1 à 10 - é possível encontrar a localização exata através das coordenadas na tabela.
+
+2) Caso não houver a coordenada de sua localização, acesse o icone no link localizado na base da tabela
+
+3)Após clicar no link, uma aba do Google Maps será aberta.
+
+4) Para o acesso das coordenadas:
+	- Com Google Maps aberto, Clique com o botão direito.
+	- Após clicar, será mostrado 5 (cinco) opções para seleciona
+	- Selecione a primeira opção (primeira linha)
+
+5) Aparecerá a mensagem "Copiado para área de transferência". Em seguida retorne para Página de cadastramento.
+
+6) No formulário "Seu Endereço" é possível inserir o endereço onde será feita a exposição dos itens (produtos) ou a sua residência.
+
+7) Já em "Sua Localização", é apresentado os campos de latitude e longitude, onde será colado as coordenadas retiradas do Google Maps. 
+
+
+
+
